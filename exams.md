@@ -9,8 +9,6 @@
 * Total Marks - 100
 * Passing Score - 60/100
 
----
-
 - ## A2
   1.  Listening (Hören) – ~30 minutes – ~25 marks
   2.  Reading (Lesen) – ~30 minutes – ~25 marks
