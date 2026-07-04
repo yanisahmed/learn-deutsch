@@ -24,8 +24,6 @@
 - Total Marks - 100
 - Passing Score - 60/100
 
----
-
 ## B1
 
 | Module              | Time         | Marks |
@@ -40,8 +38,6 @@
 
 > \*Approximately 15 minutes per candidate (usually taken in pairs).
 
----
-
 ## C1
 
 | Module              | Time         | Marks |
@@ -55,8 +51,6 @@
 - Passing Score - 60/100
 
 > \*Approximately 15 minutes per candidate (usually taken in pairs).
-
----
 
 ## C2
 
